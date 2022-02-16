@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information about exam preparation multiple choice
   problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-203-microeconomics-fall-2010/e406c66383369d38f90b6615e2c4a87e_MIT11_203F10_examprep.pdf
+file: /media/courses/11-203-microeconomics-fall-2010/e406c66383369d38f90b6615e2c4a87e_MIT11_203F10_examprep.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: MIT11_203F10_examprep.pdf
 uid: e406c663-8336-9d38-f90b-6615e2c4a87e
