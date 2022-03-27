@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 41f62dfa-031f-ba80-6293-aa5718bfb9ef
 resourcetype: Document
 title: MIT11_203F10_midterm2rev.pdf
 uid: bacbe77c-9ee8-3463-b31f-5d0f04f06897

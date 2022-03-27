@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 41f62dfa-031f-ba80-6293-aa5718bfb9ef
 resourcetype: Document
 title: MIT11_203F10_sylreview.pdf
 uid: 9356b40f-447a-f1e2-7126-b081850c63d7

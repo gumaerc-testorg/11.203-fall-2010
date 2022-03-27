@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b142149f-b9e7-ca8d-43aa-3cc22c0b2ec0
 resourcetype: Document
 title: MIT11_203F10_pset6sol.pdf
 uid: 7384506c-a8c9-87bb-2924-79fd50677a71

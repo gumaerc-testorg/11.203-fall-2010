@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 41f62dfa-031f-ba80-6293-aa5718bfb9ef
 resourcetype: Document
 title: MIT11_203F10_examprep.pdf
 uid: e406c663-8336-9d38-f90b-6615e2c4a87e

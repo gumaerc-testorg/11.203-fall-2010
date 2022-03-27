@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f7930d2f-deaa-65fd-5826-eb5852732c15
 resourcetype: Document
 title: MIT11_203F10_oligopoly1.pdf
 uid: 16ad6301-068a-fedf-1c3a-179c357d4d6b

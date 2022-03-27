@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Math Review
 parent_type: CourseSection
+parent_uid: 0ddad90f-c95f-a427-152f-568b1431d685
 resourcetype: Document
 title: MIT11_203F10_handout6.pdf
 uid: e955d8a5-80f9-32b1-afeb-37eaca3dc5ae

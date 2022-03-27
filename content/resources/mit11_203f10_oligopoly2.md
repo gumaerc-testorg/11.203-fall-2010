@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f7930d2f-deaa-65fd-5826-eb5852732c15
 resourcetype: Document
 title: Notes on Oligopoly Day 2
 uid: cedca681-7e85-82b3-8b0b-e71d5ccddb9e

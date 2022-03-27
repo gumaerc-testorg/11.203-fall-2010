@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: fe807a89-f6fc-d9a2-125f-aa04c00d6c45
 resourcetype: Document
 title: MIT11_203F10_calcnotes.pdf
 uid: 32b79dfd-8a2a-a7f1-3322-e5a13d549271
