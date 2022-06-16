@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on supply curve elasticity, market equilibrium,
   demand functions, technical change and skilled labor, and utility functions
-file: /media/courses/11-203-microeconomics-fall-2010/53e7a9298e8fe16b1370e9548e3ac420_MIT11_203F10_pset2sol.pdf
+file: /courses/11-203-microeconomics-fall-2010/53e7a9298e8fe16b1370e9548e3ac420_MIT11_203F10_pset2sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: 'Problem Set #2 Solutions'
 uid: 53e7a929-8e8f-e16b-1370-e9548e3ac420
 ---
+Solutions to a problem set on supply curve elasticity, market equilibrium, demand functions, technical change and skilled labor, and utility functions
+
