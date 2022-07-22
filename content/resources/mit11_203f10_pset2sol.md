@@ -6,6 +6,7 @@ file: /courses/11-203-microeconomics-fall-2010/53e7a9298e8fe16b1370e9548e3ac420_
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Problem Set #2 Solutions'
 uid: 53e7a929-8e8f-e16b-1370-e9548e3ac420
 ---
 Solutions to a problem set on supply curve elasticity, market equilibrium, demand functions, technical change and skilled labor, and utility functions
-

@@ -7,6 +7,7 @@ file: /courses/11-203-microeconomics-fall-2010/cedca6817e8582b38b0be71d5ccddb9e_
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Notes on Oligopoly Day 2
 uid: cedca681-7e85-82b3-8b0b-e71d5ccddb9e
 ---
 Lecture presentation on kinked demand curve theory, strategy and cooperation, the prisoners’ dilemma, duopolist’s dilemma, the chicken game, and repeated games.
-

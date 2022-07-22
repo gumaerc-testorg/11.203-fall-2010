@@ -6,6 +6,7 @@ file: /courses/11-203-microeconomics-fall-2010/e406c66383369d38f90b6615e2c4a87e_
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT11_203F10_examprep.pdf
 uid: e406c663-8336-9d38-f90b-6615e2c4a87e
 ---
 This resource contains information about exam preparation multiple choice problems.
-
