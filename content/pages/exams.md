@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the course exams with solutions, exam preparation
+  materials, and midterm exams from previous years.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 41f62dfa-031f-ba80-6293-aa5718bfb9ef
 ---
@@ -28,7 +33,7 @@ FILES
 Exam preparation multiple choice problems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_203f10_examprep))
+({{% resource_link e406c663-8336-9d38-f90b-6615e2c4a87e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -37,7 +42,7 @@ Exam preparation multiple choice problems
 Exam preparation multiple choice solutions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_203f10_examprepsol))
+({{% resource_link b371b359-bba8-83c3-aee9-dcf67809490a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +51,7 @@ Exam preparation multiple choice solutions
 Syllabus review
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_203f10_sylreview))
+({{% resource_link 9356b40f-447a-f1e2-7126-b081850c63d7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +66,7 @@ Syllabus review
 2010 midterm with answers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_203f10_2010midterm1))
+({{% resource_link df1df681-c860-8ce2-e263-8da05338812c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,11 +87,11 @@ Syllabus review
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit11_203f10_2009midterm1))
+({{% resource_link 9cb10f70-e765-d08b-2d49-43a829bf7014 "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit11_203f10_2007midterm1))
+({{% resource_link b544dd7b-fff5-68b1-da16-694f501c2223 "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit11_203f10_2006midterm1))
+({{% resource_link b03ea8ab-bee2-6376-37df-b257602771c8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -103,7 +108,7 @@ Syllabus review
 Review problems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_203f10_midterm2rev))
+({{% resource_link bacbe77c-9ee8-3463-b31f-5d0f04f06897 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ Review problems
 2010 midterm with answers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit11_203f10_2010midterm2))
+({{% resource_link 62c4d961-2441-a338-28ba-08bcec8b4762 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
