@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about summary earning statistics.
 file: /courses/11-203-microeconomics-fall-2010/8f6b2ad36eba532fe27b6f7d52c108a0_MIT11_203F10_wagestats.pdf
+file_size: 20675
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
