@@ -4,6 +4,7 @@ description: "Lecture presentation on kinked demand curve theory, strategy and c
   \ the prisoners\u2019 dilemma, duopolist\u2019s dilemma, the chicken game, and repeated\
   \ games."
 file: /courses/11-203-microeconomics-fall-2010/cedca6817e8582b38b0be71d5ccddb9e_MIT11_203F10_oligopoly2.pdf
+file_size: 190720
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about syllabus review.
 file: /courses/11-203-microeconomics-fall-2010/9356b40f447af1e27126b081850c63d7_MIT11_203F10_sylreview.pdf
+file_size: 201694
 file_type: application/pdf
 learning_resource_types:
 - Exams
