@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about exam preparation multiple choice
   solutions.
 file: /courses/11-203-microeconomics-fall-2010/b371b359bba883c3aee9dcf67809490a_MIT11_203F10_examprepsol.pdf
+file_size: 132239
 file_type: application/pdf
 learning_resource_types:
 - Exams
