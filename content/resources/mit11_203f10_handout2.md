@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about utility functions, indifference
   curves, changes in the shape of the indifference curve and budget constraints.
-file: /courses/11-203-microeconomics-fall-2010/4b2a0bd739edb6ee032f62846b6e2965_MIT11_203F10_handout2.pdf
+file: /ol-ocw-studio-app/courses/11-203-microeconomics-fall-2010/4b2a0bd739edb6ee032f62846b6e2965_MIT11_203F10_handout2.pdf
 file_size: 111157
 file_type: application/pdf
 learning_resource_types: []
