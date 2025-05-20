@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about exam preparation multiple choice
   problems.
-file: /ol-ocw-studio-app/courses/11-203-microeconomics-fall-2010/e406c66383369d38f90b6615e2c4a87e_MIT11_203F10_examprep.pdf
+file: /courses/11-203-microeconomics-fall-2010/e406c66383369d38f90b6615e2c4a87e_MIT11_203F10_examprep.pdf
 file_size: 104266
 file_type: application/pdf
 learning_resource_types:
