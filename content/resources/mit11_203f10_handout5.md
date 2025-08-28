@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about production functions, isoquants
   and isocot lines and increasing, decreasing and constant returns to scale.
-file: /courses/11-203-microeconomics-fall-2010/4adee271645488dca510f5a256b2f109_MIT11_203F10_handout5.pdf
+file: /ol-ocw-studio-app/courses/11-203-microeconomics-fall-2010/4adee271645488dca510f5a256b2f109_MIT11_203F10_handout5.pdf
 file_size: 105792
 file_type: application/pdf
 learning_resource_types: []
